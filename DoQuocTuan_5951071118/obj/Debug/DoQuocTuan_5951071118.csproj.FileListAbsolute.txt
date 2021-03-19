@@ -1,0 +1,10 @@
+D:\CSharp\DoQuocTuan_5951071118\DoQuocTuan_5951071118\bin\Debug\DoQuocTuan_5951071118.exe.config
+D:\CSharp\DoQuocTuan_5951071118\DoQuocTuan_5951071118\bin\Debug\DoQuocTuan_5951071118.exe
+D:\CSharp\DoQuocTuan_5951071118\DoQuocTuan_5951071118\bin\Debug\DoQuocTuan_5951071118.pdb
+D:\CSharp\DoQuocTuan_5951071118\DoQuocTuan_5951071118\obj\Debug\DoQuocTuan_5951071118.csprojAssemblyReference.cache
+D:\CSharp\DoQuocTuan_5951071118\DoQuocTuan_5951071118\obj\Debug\DoQuocTuan_5951071118.Form1.resources
+D:\CSharp\DoQuocTuan_5951071118\DoQuocTuan_5951071118\obj\Debug\DoQuocTuan_5951071118.Properties.Resources.resources
+D:\CSharp\DoQuocTuan_5951071118\DoQuocTuan_5951071118\obj\Debug\DoQuocTuan_5951071118.csproj.GenerateResource.cache
+D:\CSharp\DoQuocTuan_5951071118\DoQuocTuan_5951071118\obj\Debug\DoQuocTuan_5951071118.csproj.CoreCompileInputs.cache
+D:\CSharp\DoQuocTuan_5951071118\DoQuocTuan_5951071118\obj\Debug\DoQuocTuan_5951071118.exe
+D:\CSharp\DoQuocTuan_5951071118\DoQuocTuan_5951071118\obj\Debug\DoQuocTuan_5951071118.pdb
